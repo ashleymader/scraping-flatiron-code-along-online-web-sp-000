@@ -36,5 +36,4 @@ class Scraper
     
 end
 
-#rspec spec/scraper_spec.rb
 
