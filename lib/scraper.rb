@@ -25,6 +25,8 @@ class Scraper
     self.get_page.css(".posts-holder")
   end
   
+  def make_courses
+    
 end
 
 #rspec spec/scraper_spec.rb
