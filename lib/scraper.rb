@@ -23,6 +23,7 @@ class Scraper
   
   def get_courses 
     doc.css(".posts-holder")
+  end
   
 end
 
